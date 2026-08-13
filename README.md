@@ -51,8 +51,6 @@ sql-testing
 │   ├── 02-Filtering-and-Sorting.sql
 │   ├── 03-Joins.sql
 │   ├── 04-Aggregate-Functions.sql
-│   ├── 05-Subqueries.sql
-│   ├── 06-Data-Validation.sql
-│   └── 07-Advanced-Queries.sql
+│   └── 05-Data-Validation.sql
 │
 └── README.md
